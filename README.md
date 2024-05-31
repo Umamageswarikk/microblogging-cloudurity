@@ -3,15 +3,17 @@ This is a microblogging site created with python django
 
 to run the file : python manage.py runserver
 
-<img width="960" alt="1" src="https://github.com/Umamageswarikk/microblogging-cloudurity/assets/140001287/6d6fcc15-7e91-4a27-b357-363a121c26b7">
+<img width="960" alt="1" src="https://github.com/Umamageswarikk/microblogging-cloudurity/assets/140001287/ca04ae56-8a6d-46fa-8958-d4da6cd3f040">
+
+<img width="960" alt="2" src="https://github.com/Umamageswarikk/microblogging-cloudurity/assets/140001287/9e82ed48-1c08-499b-97ee-0d5b6cc6f115">
+
+<img width="960" alt="3" src="https://github.com/Umamageswarikk/microblogging-cloudurity/assets/140001287/0d2d6488-48dc-47a1-8414-dd29bbbbca51">
 
 
-<img width="960" alt="2" src="https://github.com/Umamageswarikk/microblogging-cloudurity/assets/140001287/039d913b-6c21-49c6-a2ac-cb7ab3bba2cf">
+<img width="960" alt="4" src="https://github.com/Umamageswarikk/microblogging-cloudurity/assets/140001287/d895c921-e489-4439-b7cd-55ad6f52c08e">
+
+<img width="960" alt="5" src="https://github.com/Umamageswarikk/microblogging-cloudurity/assets/140001287/6265ed2a-e0f1-4394-97c1-683632e75c77">
 
 
 
-<img width="960" alt="3" src="https://github.com/Umamageswarikk/microblogging-cloudurity/assets/140001287/909856b5-6098-4ab7-af35-3f4e9fe8023d">
 
-<img width="960" alt="4" src="https://github.com/Umamageswarikk/microblogging-cloudurity/assets/140001287/b6cdb3b3-4f56-4757-92f0-8f97fd8250fb">
-
-<img width="960" alt="5" src="https://github.com/Umamageswarikk/microblogging-cloudurity/assets/140001287/4a332d0c-eac1-4321-aff2-6407e1097647">
